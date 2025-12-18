@@ -3,7 +3,7 @@ layout: page
 title: For Employers
 nav-menu: true
 show_tile: true
-image: assets/images/pic07.jpg
+image: /assets/images/pic07.jpg
 description: Hiring support, outsourcing/remote planning, and training pathways for your team.
 permalink: /employers/
 ---
