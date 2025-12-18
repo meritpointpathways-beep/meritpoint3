@@ -85,6 +85,47 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
+	<section>
+		<a href="{{ site.baseurl }}/employers/" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>For Employers: Hiring, Outsourcing & Remote Work</h3>
+				</header>
+				<p>
+				Looking to hire talent, build a remote team, or explore outsourcing support?
+				We help you define your needs clearly, plan realistic role requirements, and map next steps for hiring or outsourcing.
+				</p>
+				<ul class="actions">
+					<li><a href="{{ site.baseurl }}/employers/" class="button">For Employers</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a href="{{ site.baseurl }}/employers/" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>For Employers: Training & Upskilling Pathways</h3>
+				</header>
+				<p>
+				Planning training for new hires or upskilling your existing team?
+				We help you outline a clear pathway — what to train, in what order, and what outcomes to expect.
+				</p>
+				<ul class="actions">
+					<li><a href="{{ site.baseurl }}/employers/" class="button">Plan Training</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 </section>
 
 <!-- Three -->
@@ -99,7 +140,7 @@ nav-menu: true
 		identify realistic next steps, and plan a pathway that fits your goals and situation.
 		</p>
 		<ul class="actions">
-			<li><a href="{% link 06-contact.md %}" class="button next">Book a free consultation</a></li>
+			<li><a href="{{ site.baseurl }}/contact/" class="button next">Book a free consultation</a></li>
 		</ul>
 	</div>
 </section>
