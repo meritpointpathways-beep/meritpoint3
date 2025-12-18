@@ -27,7 +27,7 @@ Start with a <strong>free consultation</strong>. We’ll understand your goal, s
 
 <!-- CTA buttons (5) -->
 <ul class="actions">
-	<li><a href="{% link contact.md %}" class="button special">Book a Free Consultation</a></li>
+	<li><a href="{% link 06-contact.md %}" class="button special">Book a Free Consultation</a></li>
 	<li><a href="#funding" class="button">See Funding & Costs</a></li>
 	<li><a href="#faq" class="button">Read FAQs</a></li>
 </ul>
@@ -148,7 +148,7 @@ We explain what each category means and how to prepare.
 </div>
 
 <ul class="actions">
-	<li><a href="{% link contact.md %}" class="button special">Ask About Your Eligibility</a></li>
+	<li><a href="{% link 06-contact.md %}" class="button special">Ask About Your Eligibility</a></li>
 	<li><a href="#contact" class="button">Send a Request</a></li>
 </ul>
 
@@ -250,7 +250,7 @@ GitHub Pages can’t process form submissions directly (no server). The safest a
 		</ul>
 
 		<ul class="actions">
-			<li><a href="{% link contact.md %}" class="button special">Go to Contact Page</a></li>
+			<li><a href="{% link 06-contact.md %}" class="button special">Go to Contact Page</a></li>
 			<li><a href="#services" class="button">Back to Services</a></li>
 		</ul>
 	</div>
@@ -267,7 +267,7 @@ GitHub Pages can’t process form submissions directly (no server). The safest a
 		</div>
 
 		<!-- A “safe form” that doesn't pretend to submit anywhere -->
-		<form method="get" action="{% link contact.md %}">
+		<form method="get" action="{% link 06-contact.md %}">
 			<div class="row uniform">
 				<div class="12u$">
 					<ul class="actions">
@@ -288,7 +288,7 @@ GitHub Pages can’t process form submissions directly (no server). The safest a
 Book a free consultation and we’ll help you move forward with clarity and confidence.
 </p>
 <ul class="actions">
-	<li><a href="{% link contact.md %}" class="button special">Book Free Consultation</a></li>
+	<li><a href="{% link 06-contact.md %}" class="button special">Book Free Consultation</a></li>
 	<li><a href="{% link index.md %}" class="button">Back to Home</a></li>
 </ul>
 
