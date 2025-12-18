@@ -1,8 +1,14 @@
 ---
+---
 layout: page
 title: Contact
 nav-menu: true
-image: assets/images/pic01.jpg
+show_tile: true
+image: assets/images/pic06.jpg
+description: Call, email, or send a request to get started.
+permalink: /contact/
+---
+
 ---
 
 ## Contact MeritPoint Pathways
