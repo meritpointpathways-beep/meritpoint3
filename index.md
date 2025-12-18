@@ -27,5 +27,5 @@ Start with a **free consultation** and get clarity on:
 - Timelines, eligibility, and practical next steps  
 - Employers: Hiring steps, talents pools & Outsourcing 
 
-📞 **437-882-3664**  
+📞 **+1(437)-882-3664**  
 ✉️ **info@meritpoint.ca**
