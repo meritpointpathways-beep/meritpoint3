@@ -16,4 +16,4 @@ We help you move from confusion to a clear plan — whether you’re choosing a 
 - Budget and timeline planning
 - Career re-entry planning
 
-Ready to start? Visit our [Contact page]({% link contact.md %}).
+Ready to start? Visit our [Contact page]({% link 06-contact.md %}).
