@@ -78,3 +78,9 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+#banner .major h1,
+#main .inner h1,
+#main .inner h2,
+#main .inner h3 {
+  text-align: center;
+}
