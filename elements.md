@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Services
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,398 +12,285 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Services</h1>
 		</header>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<!-- Intro -->
+<h2 id="content">How MeritPoint Pathways Can Help</h2>
+<p>
+Thinking about school, upgrading skills, or switching careers — but not sure what program to choose or how funding works?
+MeritPoint Pathways helps you turn a confusing process into clear next steps.
+</p>
+<p>
+Start with a <strong>free consultation</strong>. We’ll understand your goal, shortlist realistic options, and guide you through funding pathways (including OSAP guidance).
+</p>
+
+<!-- CTA buttons (5) -->
+<ul class="actions">
+	<li><a href="{% link contact.md %}" class="button special">Book a Free Consultation</a></li>
+	<li><a href="#funding" class="button">See Funding & Costs</a></li>
+	<li><a href="#faq" class="button">Read FAQs</a></li>
+</ul>
+
+<hr class="major" />
+
+<!-- Services overview -->
+<h2 id="services">What we do</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>1) Program Selection & Career Pathways</h3>
+		<p>
+		We help you choose a program that matches your background, timeline, and goals — with clear explanations of what leads where.
+		</p>
+		<ul>
+			<li>Shortlisting programs and schools</li>
+			<li>Explaining admissions steps and timelines</li>
+			<li>Creating a clear pathway from “today” to “start date”</li>
+		</ul>
 	</div>
+
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>2) OSAP Guidance (Step-by-Step)</h3>
+		<p>
+		OSAP can be confusing. We guide you through the process in plain language and help reduce delays caused by missing or incorrect info.
+		</p>
+		<ul>
+			<li>Understanding what OSAP may cover (eligibility varies)</li>
+			<li>Document checklist + common mistakes to avoid</li>
+			<li>Clarity on timelines and next steps</li>
+		</ul>
 	</div>
+
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>3) Budget & Planning</h3>
+		<p>
+		We help you plan costs and timelines so you can commit confidently.
+		</p>
+		<ul class="alt">
+			<li>Tuition + fee planning</li>
+			<li>Books/supplies estimate planning</li>
+			<li>Schedule planning for intakes</li>
+		</ul>
 	</div>
+
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>4) Career Re-Entry Support</h3>
+		<p>
+		If you’re returning to work or changing industries, we help you pick a realistic path and plan the steps.
+		</p>
+		<ul class="alt">
+			<li>Pathway mapping based on your background</li>
+			<li>Skills-first approach (practical steps)</li>
+			<li>Confidence + clarity about what to do next</li>
+		</ul>
 	</div>
+
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>5) Employer Support</h3>
+		<p>
+		We can support employers looking to hire or upskill by clarifying role needs and training pathways.
+		</p>
+		<ul class="alt">
+			<li>Hiring & training needs discussion</li>
+			<li>Role clarity and pathway suggestions</li>
+			<li>Next-step planning and coordination</li>
+		</ul>
 	</div>
 </div>
 
 <hr class="major" />
 
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
+<!-- (1) Funding & costs table -->
+<h2 id="funding">Funding & Costs (Overview)</h2>
+<p>
+Funding outcomes depend on eligibility and program details, but many learners plan around these common categories.
+We explain what each category means and how to prepare.
+</p>
 
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
-
-	</div>
-</div>
-
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
-
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
-		</ul>
-	</div>
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
-<!-- Table -->
-<h3>Table</h3>
-
-<h4>Default</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
+				<th>Cost Category</th>
+				<th>What it includes</th>
+				<th>What we help you do</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td><strong>Tuition</strong></td>
+				<td>Program tuition (full or partial, depending on eligibility)</td>
+				<td>Confirm program details and plan your intake timeline</td>
 			</tr>
 			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
+				<td><strong>Books & Supplies</strong></td>
+				<td>Textbooks, materials, required tools/software</td>
+				<td>Identify what your program requires so you can budget realistically</td>
 			</tr>
 			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
+				<td><strong>Lab / Technical Fees</strong></td>
+				<td>Lab costs, equipment use, specialized program fees</td>
+				<td>Review program fee structure so there are no surprises</td>
 			</tr>
 			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
+				<td><strong>Transportation & Other Costs</strong></td>
+				<td>Commuting, incidental program-related costs</td>
+				<td>Build a simple plan based on your schedule and location</td>
 			</tr>
 			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td><strong>Living Expenses</strong></td>
+				<td>Rent, groceries, essentials (varies by situation)</td>
+				<td>Discuss practical planning and what to prepare</td>
 			</tr>
 		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
 	</table>
 </div>
 
-<h4>Alternate</h4>
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
+<ul class="actions">
+	<li><a href="{% link contact.md %}" class="button special">Ask About Your Eligibility</a></li>
+	<li><a href="#contact" class="button">Send a Request</a></li>
+</ul>
+
+<hr class="major" />
+
+<!-- (4) Testimonials -->
+<h2 id="testimonials">What clients usually value</h2>
+<p>
+(You can replace these with real testimonials later. For now, these are safe placeholders that describe outcomes without making promises.)
+</p>
+
+<div class="row">
+	<div class="6u 12u$(small)">
+		<div class="box">
+			<p>
+			“Everything felt overwhelming at first, but after the consultation I had a clear plan and knew what steps to take next.”
+			</p>
+			<p><strong>— Learner, Ontario</strong></p>
+		</div>
+	</div>
+
+	<div class="6u$ 12u$(small)">
+		<div class="box">
+			<p>
+			“They explained funding and program options in plain language. I finally understood what I needed and what to prepare.”
+			</p>
+			<p><strong>— Career Switcher</strong></p>
+		</div>
+	</div>
+
+	<!-- Break -->
+	<div class="6u 12u$(small)">
+		<div class="box">
+			<p>
+			“Professional, honest guidance. No pressure — just clear direction and realistic options.”
+			</p>
+			<p><strong>— Newcomer to Canada</strong></p>
+		</div>
+	</div>
+
+	<div class="6u$ 12u$(small)">
+		<div class="box">
+			<p>
+			“Helpful support in organizing documents and understanding timelines. It made the process feel manageable.”
+			</p>
+			<p><strong>— Returning Student</strong></p>
+		</div>
+	</div>
 </div>
 
-</div>
-<div class="6u$ 12u$(medium)">
+<hr class="major" />
 
-<!-- Buttons -->
-<h3>Buttons</h3>
-<ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special big">Big</a></li>
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button special small">Small</a></li>
-</ul>
-<ul class="actions fit">
-	<li><a href="#" class="button special fit">Fit</a></li>
-	<li><a href="#" class="button fit">Fit</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
-	<li><span class="button special disabled">Special</span></li>
-	<li><span class="button disabled">Default</span></li>
-</ul>
+<!-- (3) FAQ -->
+<h2 id="faq">Frequently Asked Questions</h2>
 
-<!-- Form -->
-<h3>Form</h3>
+<h3>Do you charge any fees upfront?</h3>
+<p>
+No. We start with a <strong>free consultation</strong>. If you need help beyond that, we’ll explain options clearly before anything.
+</p>
 
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+<h3>Can OSAP cover tuition, books, and other costs?</h3>
+<p>
+OSAP outcomes depend on eligibility and program details. Many learners plan around categories like tuition, books/supplies, and program fees.
+We can explain what applies to your situation and what to prepare.
+</p>
+
+<h3>Do I need to know exactly what program I want before contacting you?</h3>
+<p>
+Not at all. Many people come to us unsure. We’ll start with your goals and background and shortlist practical options.
+</p>
+
+<h3>How long does it take to get started?</h3>
+<p>
+It depends on intake dates and what documents are needed. In your consultation, we’ll map out a realistic timeline and next steps.
+</p>
+
+<h3>Do you only help students?</h3>
+<p>
+No. We also support career re-entry and employers who want help thinking through hiring or training pathways.
+</p>
+
+<hr class="major" />
+
+<!-- (2) Contact / request form section -->
+<h2 id="contact">Send a request</h2>
+<p>
+GitHub Pages can’t process form submissions directly (no server). The safest approach is:
+<strong>use the Contact page</strong> to message us or fill a secure request form link.
+</p>
+
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Quick contact</h3>
+		<ul class="alt">
+			<li><strong>Phone:</strong> 437-883-3664</li>
+			<li><strong>Email:</strong> info@meritpoint.ca</li>
+			<li><strong>Website:</strong> MeritPoint.ca</li>
+			<li><strong>Location:</strong> Mississauga, Ontario</li>
+		</ul>
+
+		<ul class="actions">
+			<li><a href="{% link contact.md %}" class="button special">Go to Contact Page</a></li>
+			<li><a href="#services" class="button">Back to Services</a></li>
+		</ul>
+	</div>
+
+	<div class="6u$ 12u$(small)">
+		<h3>Request checklist (copy/paste into your message)</h3>
+		<div class="box">
+			<p>
+			<strong>Goal:</strong> (e.g., switch careers / start school / upskill)<br />
+			<strong>Timeline:</strong> (ASAP / next intake / later)<br />
+			<strong>Background:</strong> (education/work experience)<br />
+			<strong>Questions:</strong> (OSAP / program selection / costs / eligibility)
+			</p>
 		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
-					<option value="">- Category -</option>
-					<option value="1">Manufacturing</option>
-					<option value="1">Shipping</option>
-					<option value="1">Administration</option>
-					<option value="1">Human Resources</option>
-				</select>
+
+		<!-- A “safe form” that doesn't pretend to submit anywhere -->
+		<form method="get" action="{% link contact.md %}">
+			<div class="row uniform">
+				<div class="12u$">
+					<ul class="actions">
+						<li><input type="submit" value="Open Contact Options" class="special" /></li>
+					</ul>
+				</div>
 			</div>
-		</div>
-		<!-- Break -->
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-			<label for="demo-priority-low">Low</label>
-		</div>
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority">
-			<label for="demo-priority-normal">Normal</label>
-		</div>
-		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority">
-			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
-		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked>
-			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
-			</ul>
-		</div>
-	</div>
-</form>
+		</form>
 
-<!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 	</div>
 </div>
 
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<hr class="major" />
 
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
-
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
-</div>
-</div>
+<!-- Final CTA (5) -->
+<h2 id="next-steps">Ready to take the next step?</h2>
+<p>
+Book a free consultation and we’ll help you move forward with clarity and confidence.
+</p>
+<ul class="actions">
+	<li><a href="{% link contact.md %}" class="button special">Book Free Consultation</a></li>
+	<li><a href="{% link index.md %}" class="button">Back to Home</a></li>
+</ul>
 
 </div>
 </section>
