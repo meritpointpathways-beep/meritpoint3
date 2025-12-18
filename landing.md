@@ -39,7 +39,7 @@ nav-menu: true
 				interests, and local demand — so you’re not guessing or following trends blindly.
 				</p>
 				<ul class="actions">
-					<li><a href="{% link 01-services.md %}" class="button">Learn more</a></li>
+					<li><a href="{{ site.baseurl }}/services/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: true
 				such as OSAP, BetterJobOntario and other education loans, and plan around tuition, books, and other program-related costs.
 				</p>
 				<ul class="actions">
-					<li><a href="{% link 04-funding & loans.md %}" class="button">Funding overview</a></li>
+					<li><a href="{{ site.baseurl }}/funding-loans/" class="button">Funding overview</a></li>
 				</ul>
 			</div>
 		</div>
