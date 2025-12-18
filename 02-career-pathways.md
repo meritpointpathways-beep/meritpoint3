@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Career Pathways
-nav-menu: true
+nav-menu: False
 show_tile: true
 image: assets/images/pic02.jpg
 description: Career switches, re-entry, and skill-up plans that make sense.
