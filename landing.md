@@ -59,7 +59,8 @@ nav-menu: true
 				This includes understanding prerequisites, timelines, and how each option supports your long-term goals.
 				</p>
 				<ul class="actions">
-					<li><a href="{% link 03-programs.md %}" class="button">View programs</a></li>
+					<li><a href="{{ site.baseurl }}/programs/" class="button">View programs</a></li>
+
 				</ul>
 			</div>
 		</div>
