@@ -14,7 +14,7 @@
     {% include header.html %}
 
     {% if page.image %}
-    <section id="banner" class="style2">
+    <section id="banner" class="{{ page.style | default: 'style2' }}">
         <div class="inner">
             <span class="image">
                 <img src="{{ page.image | relative_url }}" alt="">
@@ -31,7 +31,14 @@
     </section>
     {% endif %}
 
-    {{ content }}
+    <div id="main" class="alt">
+  <section id="one">
+    <div class="inner">
+      {{ content }}
+    </div>
+  </section>
+</div>
+
 
     {% include footer.html %}
 
