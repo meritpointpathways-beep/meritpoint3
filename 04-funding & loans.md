@@ -16,4 +16,4 @@ Funding can be confusing. We explain what each option means and how to prepare.
 - Lab/technical fees
 - Living expenses (varies by eligibility)
 
-For personalized guidance, reach out via [Contact]({% link contact.md %}).
+For personalized guidance, reach out via [Contact]({% link 06-contact.md %}).
