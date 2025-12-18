@@ -9,13 +9,24 @@ image: assets/images/pic01.jpg
 
 Start with a **free consultation** — no upfront fees.
 
+### Quick contact
 - **Phone:** 437-882-3664  
 - **Email:** info@meritpoint.ca  
 - **Website:** www.MeritPoint.ca  
 - **Location:** Mississauga, Ontario
 
-### Send a request (fastest)
-Use our request form to get started:  
-**(Add your Google Form link here when ready)**
+---
+
+## Send a request (fastest)
+
+If you prefer, you can submit a request form and we’ll reply with next steps.
+
+**Request form:** *[(paste your Google Form link here)](https://forms.gle/MonKazvA3wVg4BLb7)*
 
 ---
+
+## What to include in your message (optional)
+- Your goal (program selection / OSAP guidance / career change / upskilling)
+- Your timeline (ASAP / next intake / later)
+- Your background (education + work experience)
+- Any specific questions you want answered
