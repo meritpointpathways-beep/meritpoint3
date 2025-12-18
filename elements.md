@@ -243,9 +243,9 @@ GitHub Pages can’t process form submissions directly (no server). The safest a
 	<div class="6u 12u$(small)">
 		<h3>Quick contact</h3>
 		<ul class="alt">
-			<li><strong>Phone:</strong> 437-883-3664</li>
+			<li><strong>Phone:</strong> 437-882-3664</li>
 			<li><strong>Email:</strong> info@meritpoint.ca</li>
-			<li><strong>Website:</strong> MeritPoint.ca</li>
+			<li><strong>Website:</strong> WWW.MeritPoint.ca</li>
 			<li><strong>Location:</strong> Mississauga, Ontario</li>
 		</ul>
 
