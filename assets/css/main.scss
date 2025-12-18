@@ -84,3 +84,25 @@
 #main .inner h3 {
   text-align: center;
 }
+/* Center ALL content on standard pages */
+#main .inner {
+  text-align: center;
+}
+
+/* Center bullet/number lists nicely */
+#main .inner ul,
+#main .inner ol {
+  list-style-position: inside;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Center images too */
+#main .inner img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#banner .content {
+  text-align: center;
+}
