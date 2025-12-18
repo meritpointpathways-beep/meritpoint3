@@ -1,17 +1,18 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: MeritPoint Pathways
+subtitle: Education & Career Pathways | Financial Guidance
+email: info@meritpoint.ca
+description: Free consultation for education planning, government funding & loans, and career pathways all over the world.<br />No upfront fees. Clear next steps.
 baseurl: "/meritpoint3"
 url: "https://meritpointpathways-beep.github.io"
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: MeritPoint Pathways
+
+street_address: 7205 Goreway Dr
+city: Mississauga
+state: ON
+zip_code: L4T 0B4
+country: Canada
+phone: 437-882-3664
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,13 +23,11 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Instagram: instagram.com/meritpointpathways
+  LinkedIn:
   Facebook:
+  GitHub:
+  Twitter:
   Slack:
 
 # build settings
@@ -38,7 +37,7 @@ sass:
   style: compressed
 
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
