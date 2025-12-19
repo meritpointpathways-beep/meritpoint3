@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Intro -->
-<h2 id="content">How MeritPoint Pathways Can Help</h2>
+<h1 id="content">How MeritPoint Pathways Can Help</h1>
 <p>
 Thinking about school, upgrading skills, or switching careers — but not sure what program to choose or how funding works?
 MeritPoint Pathways helps you turn a confusing process into clear next steps.
