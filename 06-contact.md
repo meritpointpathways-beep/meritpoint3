@@ -28,7 +28,7 @@ Start with a **free consultation** — no upfront fees.
 
 If you prefer, you can submit a request form and we’ll reply with next steps.
 
-**Request form:** *[(paste your Google Form link here)](https://forms.gle/MonKazvA3wVg4BLb7)*
+**Request form:** *[**Get in Touch**](https://forms.gle/MonKazvA3wVg4BLb7)*
 
 ---
 
