@@ -78,9 +78,26 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+/* Center headings inside banner + page content */
 #banner .major h1,
-#main .inner h1, {
+#main .inner h1,
+#main .inner h2,
+#main .inner h3 {
+  text-align: center;
 }
-  margin-left: auto;
-  margin-right: auto;
+
+/* Center the banner description text (the line under the page title) */
+#banner .content {
+  text-align: center;
+}
+
+/* Subheadings styling (your "Hiring Support" etc.)
+   - Bold + underline style, centered, and a little spacing */
+#main .inner h2,
+#main .inner h3 {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.25em;
+  text-decoration-thickness: 2px;
+  margin-top: 1.25em;
 }
