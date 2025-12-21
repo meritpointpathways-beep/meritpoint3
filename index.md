@@ -26,6 +26,3 @@ Start with a **free consultation** and get clarity on:
 - Funding, tuition, and cost planning  
 - Timelines, eligibility, and practical next steps  
 - Employers: Hiring steps, talents pools & Outsourcing 
-
-📞 **+1(437)-882-3664**  
-✉️ **info@meritpoint.ca**
